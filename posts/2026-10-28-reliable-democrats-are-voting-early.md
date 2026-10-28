@@ -25,7 +25,7 @@ Research desk · Oct 28, 2026
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: Percent of each party’s registered four-time voters who voted early. Same days out in 2022 and 2026: NC 8, KS 7, FL 8.
+Source: Carmena’s Overton; early votes via ColdSpark. Caveat: Percent of each party’s registered four-time voters who voted early. Same days out in 2022 and 2026: NC 8, KS 7, FL 8.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-habit-party-rates.csv
 
 Democrats are front-loading their reliable voters. In North Carolina, more than half have already voted. Only about a third of reliable Republicans have. Democrats have those ballots counted, but they have also used up more of the voters who usually show up.
@@ -60,7 +60,7 @@ Kansas had Republican early-voter leads in both previous elections. This year De
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: Same days before Election Day in every year: North Carolina and Florida 8; Kansas 7. Registered party, not candidate choice.
+Source: Carmena’s Overton; early votes via ColdSpark. Caveat: Same days before Election Day in every year: North Carolina and Florida 8; Kansas 7. Registered party, not candidate choice.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-habit-overall-margins.csv
 
 Those are votes Democrats wanted to get, and they have them. The trouble comes when you assume the voters still to come will look like the ones who have already voted. Republicans have a larger share of their dependable voters left. They can make up ground by getting those people out.
@@ -87,7 +87,7 @@ In North Carolina, Democrats who voted in every recent general election have inc
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: Early ballots divided by registered Democrats in each voting-history group, same day in both years.
+Source: Carmena’s Overton; early votes via ColdSpark. Caveat: Early ballots divided by registered Democrats in each voting-history group, same day in both years.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-habit-nc-groups.csv
 
 That gives Democrats a reason to be careful about reading the early numbers as a surge in final turnout. The biggest change in participation rate is among people with a long voting record. They are arriving earlier. We do not yet know how many more Democrats will vote by the time the election ends.
@@ -102,7 +102,7 @@ North Carolina’s Republicans are still waiting on most of their regular voters
 
 ## Sources
 
-Carmena’s Overton analysis of state early-vote, registration and voting-history records. Comparisons use the same days before Election Day: eight in North Carolina and Florida, seven in Kansas. Overall margins include 2022, 2024 and 2026; reliable-voter rates compare the two midterms. Kansas’s overall comparison covers 103 counties present in all three years. Voting-history groups change between elections and are not a panel of the same people. The source’s overall totals and history breakdowns do not reconcile exactly, preventing an exact attribution of the statewide shift. Party is voter registration, not candidate choice.
+Carmena’s Overton analysis of ColdSpark early-vote, registration and voting-history counts. Comparisons use the same days before Election Day: eight in North Carolina and Florida, seven in Kansas. Overall margins include 2022, 2024 and 2026; reliable-voter rates compare the two midterms. Kansas’s overall comparison covers 103 counties present in all three years. Voting-history groups change between elections and are not a panel of the same people. The source’s overall totals and history breakdowns do not reconcile exactly, preventing an exact attribution of the statewide shift. Party is voter registration, not candidate choice.
 
 
 

@@ -23,7 +23,7 @@ Research desk · Oct 28, 2026
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: Registered party, not vote choice. Each state is compared at the same number of days before Election Day in both years.
+Source: Carmena’s Overton; early votes via ColdSpark. Caveat: Registered party, not vote choice. Each state is compared at the same number of days before Election Day in both years.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-inperson-margin.csv
 
 Registered Republicans led Florida’s early in-person voters by R+23.7 at this stage in 2022. This year their lead is R+7.1. In Kansas, the in-person early vote has gone from R+14.9 to D+0.4.
@@ -47,7 +47,7 @@ Florida voters’ mail-ballot requests expired at the start of 2025, under a sta
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: Registered Democrats only. Same day in both years.
+Source: Carmena’s Overton; early votes via ColdSpark. Caveat: Registered Democrats only. Same day in both years.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-inperson-fl-democrats.csv
 
 ## Mail’s shrinking share
@@ -69,7 +69,7 @@ Mail ballots make up a smaller share of the early vote in all four states. In Fl
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: Early ballots are returned mail ballots plus early in-person votes.
+Source: Carmena’s Overton; early votes via ColdSpark. Caveat: Early ballots are returned mail ballots plus early in-person votes.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-inperson-mail-share.csv
 
 ## The overall early vote
@@ -93,7 +93,7 @@ These counts include only ballots cast before Election Day.
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: Registered party, not vote choice. Mail and in-person early ballots combined.
+Source: Carmena’s Overton; early votes via ColdSpark. Caveat: Registered party, not vote choice. Mail and in-person early ballots combined.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-inperson-overall.csv
 
 ## Sources

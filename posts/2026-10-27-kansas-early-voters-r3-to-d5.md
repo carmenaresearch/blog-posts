@@ -22,7 +22,7 @@ Research desk · Oct 27, 2026
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: Registered party, not vote choice. Eight days out in each year.
+Source: Carmena’s Overton; early votes via ColdSpark. Caveat: Registered party, not vote choice. Eight days out in each year.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-ks-early-total.csv
 
 Registered Democrats have cast more early ballots than registered Republicans in Kansas. Eight days before Election Day, they lead by D+5.2.
@@ -63,7 +63,7 @@ Elsewhere the movement runs toward Democrats. Riley, home to Kansas State Univer
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: Registered party, eight days out. Rest of Kansas combines the other 98 counties. Bar colors mark counties, not parties.
+Source: Carmena’s Overton; early votes via ColdSpark. Caveat: Registered party, eight days out. Rest of Kansas combines the other 98 counties. Bar colors mark counties, not parties.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-ks-county-shift.csv
 
 ## Reliable voters
@@ -88,7 +88,7 @@ Early voters with no recorded vote in any of the last four general elections lea
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: Groups count how many of the last four general elections each voter cast a ballot in. “None” is not the same as first-time.
+Source: Carmena’s Overton; early votes via ColdSpark. Caveat: Groups count how many of the last four general elections each voter cast a ballot in. “None” is not the same as first-time.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-ks-voter-history.csv
 
 ## Roger Marshall and rural Kansas
@@ -111,7 +111,7 @@ In fully rural counties, early voters lean about as Republican as they did four 
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: County type by rural share: under 50% urban/suburban, 50–99% mostly rural, 100% fully rural.
+Source: Carmena’s Overton; early votes via ColdSpark, county types via L2. Caveat: County type by rural share: under 50% urban/suburban, 50–99% mostly rural, 100% fully rural.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-ks-urban-rural.csv
 
 Around Wichita, Sedgwick voters have made different choices across the same ballot. They helped reelect Democratic Gov. Laura Kelly and Republican Sen. Jerry Moran in 2022. Together, Johnson and Sedgwick supplied more than two in five of Kansas’s ballots in the last presidential election. Candidates seeking support across party lines have a substantial share of the statewide electorate to contest in those counties.
@@ -139,7 +139,7 @@ This year, Kansans had cast about half again as many early ballots by eight days
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records, 2022–24. Caveat: Early means by mail or in person before Election Day. No 2026 share until the count is final.
+Source: Carmena’s Overton; 2022–24 early votes via ColdSpark. Caveat: Early means by mail or in person before Election Day. No 2026 share until the count is final.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-ks-early-share.csv
 
 Democrats have gained most in the cities and suburbs, where both their statewide nominees are based.
@@ -172,7 +172,7 @@ The Democratic lead has already shrunk from about D+15 two weeks before Election
 
 </details>
 
-Source: Carmena’s Overton analysis of state and county early-vote records. Caveat: Dotted line: this year’s margin plus 2022’s late shift. An illustration, not a forecast.
+Source: Carmena’s Overton; early votes via ColdSpark. Caveat: Dotted line: this year’s margin plus 2022’s late shift. An illustration, not a forecast.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-ks-early-margin.csv
 
 A late swing as large as 2022’s would still leave this year’s early electorate far less Republican than in 2022 or 2024.
@@ -194,7 +194,7 @@ Every count in this article is of registered parties, and Kansans do not always 
 
 </details>
 
-Source: Carmena’s Overton analysis of 2024 turnout records. Caveat: Party from an April 2025 voter file covering 99% of ballots. Individual crossover voters cannot be identified.
+Source: Carmena’s Overton; 2024 turnout via Redistricting Data Hub / L2. Caveat: Party from an April 2025 voter file covering 99% of ballots. Individual crossover voters cannot be identified.
 Data (CSV, CC BY 4.0): https://carmenaresearch.com/data/public/chart-ks-party-vs-results.csv
 
 Brent Smith, a Lenexa voter, described his own split ticket to the Kansas Reflector in 2024. The fiscally conservative independent said he had voted for Harris for president and Republicans for Congress and the Legislature. Hamilton is asking Republicans to split their tickets the other way in the Senate race.
