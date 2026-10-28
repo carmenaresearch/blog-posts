@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below and link to https://carmenaresearch.com/blog/"
+type: software
+title: "Carmena’s Overton research posts"
+abstract: "Election analysis on the 2026 US midterms from Carmena’s Overton & Electoral Research."
+authors:
+  - name: "Carmena’s Overton & Electoral Research"
+    website: "https://carmenaresearch.com/"
+    email: "queries@carmenaresearch.com"
+license: CC-BY-4.0
+url: "https://carmenaresearch.com/blog/"
+repository-code: "https://github.com/carmenaresearch/blog-posts"
+date-released: "2026-10-28"
+keywords:
+  - elections
+  - early voting
+  - 2026 midterms
+  - political analysis
